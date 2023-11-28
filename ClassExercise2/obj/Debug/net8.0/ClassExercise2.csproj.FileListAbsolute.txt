@@ -1,0 +1,14 @@
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\bin\Debug\net8.0\ClassExercise2.exe
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\bin\Debug\net8.0\ClassExercise2.deps.json
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\bin\Debug\net8.0\ClassExercise2.runtimeconfig.json
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\bin\Debug\net8.0\ClassExercise2.dll
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\bin\Debug\net8.0\ClassExercise2.pdb
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.AssemblyInfoInputs.cache
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.AssemblyInfo.cs
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.dll
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\refint\ClassExercise2.dll
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.pdb
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ClassExercise2.genruntimeconfig.cache
+C:\Users\Zintle Xabendlini\source\repos\ClassExercise2In\ClassExercise2\obj\Debug\net8.0\ref\ClassExercise2.dll
